@@ -1,0 +1,25 @@
+{
+  "name": "renovate-minimal-reproduction",
+  "version": "1.0.0",
+  "description": "First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/copysaurus/renovate-minimal-reproduction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/copysaurus/renovate-minimal-reproduction/issues"
+  },
+  "homepage": "https://github.com/copysaurus/renovate-minimal-reproduction#readme",
+  "dependencies": {
+    "vue-final-modal": "4.5.5"
+  },
+  "devDependencies": {
+    "prettier": "3.4.2"
+  }
+}
