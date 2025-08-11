@@ -21,7 +21,7 @@
     "vue-final-modal": "4.5.5"
   },
   "devDependencies": {
-    "prettier": "3.4.2",
+    "prettier": "3.6.2",
     "style-dictionary": "4.4.0"
   }
 }
