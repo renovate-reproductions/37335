@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/copysaurus/renovate-minimal-reproduction#readme",
   "dependencies": {
+    "style-dictionary": "4.4.0",
     "vue-final-modal": "4.5.5"
   },
   "devDependencies": {
